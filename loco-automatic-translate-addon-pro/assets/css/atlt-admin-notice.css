@@ -1,0 +1,15 @@
+.atlt-chatGPT-feedback-notice_admin_notice{
+    border-left: 4px solid #00a32a !important;
+    background-color: #00a32a4a !important;
+    border: transparent;
+}
+.atlt-chatGPT-feedback-notice_admin_notice .message_container p{
+    font-size: 17px;
+    font-weight: 500;
+    color: #37583f;
+    word-spacing: 2.5px;
+}
+.atlt-chatGPT-feedback-notice_admin_notice .message_container p a{
+    color: #00a32a;
+    font-weight: bold;
+}
